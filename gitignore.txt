@@ -1,0 +1,16 @@
+packages
+bin
+obj
+*.suo
+*.user
+*.sln.docstates
+
+[Db]ebug/
+[Rr]elease/
+*.obj
+*.pdb
+
+Thumbs.db
+Desktop.ini
+
+TuriStore/Data/turistore.sqlite3.db
