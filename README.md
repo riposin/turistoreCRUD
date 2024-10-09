@@ -1,7 +1,7 @@
 # Turistore CRUD
 WPF, XAML, and SQLite
 
-# Run Vweb for SQLite
+# First run
 1. Clone the repo.
 2. Execute this PowerShell script ~/TuriStore/Data/script_new_sqlite3_db.ps1
 3. Follow the few steps indicated in by the script.
